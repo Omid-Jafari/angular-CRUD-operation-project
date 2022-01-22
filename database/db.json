@@ -1,0 +1,29 @@
+{
+  "students": [
+    {
+      "id": 3,
+      "name": "student 3",
+      "email": "student3@gmail.com"
+    },
+    {
+      "name": "omid",
+      "email": "omid@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "hossein",
+      "email": "hossein@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "mamad",
+      "email": "mamad@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "taghi",
+      "email": "taghi@gmail.com",
+      "id": 7
+    }
+  ]
+}
